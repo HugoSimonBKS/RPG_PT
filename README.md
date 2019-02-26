@@ -10,7 +10,7 @@ you have differents stats such as health, strength, action points (PA), resistan
 you can move, use or equip an item and attack the ennemies presents during the adventure,
 enjoy !
 
-**/!\**
+**/!\\**
 
 they may be some display problems depending on your resolution since it was my first real project using a user interface in java,
 most of the text is in french since it was aimed for my studies
@@ -34,7 +34,7 @@ soon
 install java if necessary here : https://www.java.com/en/download/
 else just launch the RogueLike.jar to play, 
 
-**/!\**
+**/!\\**
 
 this game was designed for AZERTY keyboars, if you have a QWERTY one either try to play
 with zqsd for movements or change temporary your keyboard to AZERTY
