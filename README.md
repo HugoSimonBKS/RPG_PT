@@ -72,9 +72,7 @@ Every version is uploaded here on github so fell free to download older versions
 
 ## Authors
 
-* **Hugo SIMON** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+***Hugo SIMON***
 
 
 
