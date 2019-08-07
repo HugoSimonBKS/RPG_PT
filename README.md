@@ -64,7 +64,7 @@ to pick an item just move toward it, to equip/use it, click on it in the invento
 
 ## Built With
 
-* [Eclipse](https://www.eclipse.org) - The IDE used
+* [Atom](https://atom.io) - The IDE used
 
 ## Versioning
 
