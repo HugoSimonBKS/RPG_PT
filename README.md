@@ -4,10 +4,10 @@ A ASCII RPG made for a school project in java
 
 ## Getting Started
 
-this is a RPG in ASCII where you must go through the rooms and defeat a boss, 
-each dungeon and room is generated randomly, 
+this is a RPG in ASCII where you must go through the rooms and defeat a boss,  
+each dungeon and room is generated randomly,  
 you have differents stats such as health, strength, action points (PA), resistance points and so on
-you can move, use or equip an item and attack the ennemies presents during the adventure,
+you can move, use or equip an item and attack the ennemies presents during the adventure,  
 enjoy !
 
 **/!\\**
@@ -43,22 +43,22 @@ with zqsd for movements or change temporary your keyboard to AZERTY
 
 **movements** 
 
-z move up
-q move left
-s move down
-d move right
+z move up  
+q move left  
+s move down  
+d move right  
 
 **attack**
 
-o attack up
-k attack left
-l attack down
-m attack right
+o attack up  
+k attack left  
+l attack down  
+m attack right  
 
 **others**
 
-n restart the game in case of loss
-r reload your pa
+n restart the game in case of loss  
+r reload your pa  
 
 to pick an item just move toward it, to equip/use it, click on it in the inventory
 
